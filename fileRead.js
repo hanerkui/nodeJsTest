@@ -45,7 +45,7 @@ function writeFile(fileName,data)
     } 
 }
 
-var filesList = geFileList("E:/work/安全项目/jarCheck");
+var filesList = geFileList("E:/work");
 
 
 /*filesList.sort(sortHandler);
